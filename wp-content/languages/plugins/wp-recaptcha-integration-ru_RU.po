@@ -1,0 +1,374 @@
+# Translation of Plugins - WordPress ReCaptcha Integration - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - WordPress ReCaptcha Integration - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-04 09:51:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - WordPress ReCaptcha Integration - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/mcguffin/"
+msgstr "https://github.com/mcguffin/"
+
+#. Author of the plugin/theme
+msgid "Jörn Lund"
+msgstr "Jörn Lund"
+
+#. Description of the plugin/theme
+msgid "Integrate reCaptcha in your blog. Supports no Captcha (new style recaptcha) as well as the old style reCaptcha. Provides of the box integration for signup, login, comment forms, lost password, Ninja Forms and contact form 7."
+msgstr "Интеграция reCaptcha в ваш блог. Поддерживает no Captcha (новый стиль reCaptcha), также как и старый стиль reCaptcha. Обеспечивает легкую интеграцию для входа в систему, регистрации, формы комментариев, потерянного пароля, Ninja Forms и Contact form 7."
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/wp-recaptcha-integration/"
+msgstr "https://wordpress.org/plugins/wp-recaptcha-integration/"
+
+#. Plugin Name of the plugin/theme
+msgid "WP reCaptcha Integration"
+msgstr "Интеграция WP reCaptcha"
+
+#: inc/class-wp_recaptcha_recaptcha.php:190
+msgid "Get an image CAPTCHA"
+msgstr "Получить изображение CAPTCHA"
+
+#: inc/class-wp_recaptcha_recaptcha.php:189
+msgid "Get an audio CAPTCHA"
+msgstr "Получить аудио CAPTCHA"
+
+#: inc/class-wp_recaptcha_recaptcha.php:188
+msgid "Get another CAPTCHA"
+msgstr "Получить другой CAPTCHA"
+
+#: inc/class-wp_recaptcha_recaptcha.php:184
+msgid "Enter the numbers you hear:"
+msgstr "Введите цифры, которые вы слышите:"
+
+#: inc/class-wp_recaptcha_recaptcha.php:183
+msgid "Enter the words above:"
+msgstr "Введите слова:"
+
+#: inc/class-wp_recaptcha_recaptcha.php:181
+msgid "Incorrect please try again"
+msgstr "Неверно, попробуйте снова"
+
+#: inc/class-wp_recaptcha_recaptcha.php:72
+msgid "Custom"
+msgstr "Особое"
+
+#: inc/class-wp_recaptcha_recaptcha.php:69
+msgid "Clean"
+msgstr "Простой"
+
+#: inc/class-wp_recaptcha_recaptcha.php:66
+msgid "Black Glass"
+msgstr "Черное стекло"
+
+#: inc/class-wp_recaptcha_recaptcha.php:63
+msgid "White"
+msgstr "Белый"
+
+#: inc/class-wp_recaptcha_recaptcha.php:60
+msgid "Red"
+msgstr "Красный"
+
+#: inc/class-wp_recaptcha_options.php:747
+msgid "Settings"
+msgstr "Настройки"
+
+#: inc/class-wp_recaptcha_options.php:724
+#: inc/class-wp_recaptcha_options.php:749
+msgid "ReCaptcha"
+msgstr "ReCaptcha"
+
+#: inc/class-wp_recaptcha_options.php:651
+msgid "Unstyled HTML to apply your own Stylesheets."
+msgstr "Чистый HTML для использования вашей таблицы стилей."
+
+#: inc/class-wp_recaptcha_options.php:613
+msgid "Other"
+msgstr "Другое"
+
+#: inc/class-wp_recaptcha_options.php:612
+msgid "Site Language"
+msgstr "Язык сайта"
+
+#: inc/class-wp_recaptcha_options.php:611
+msgid "Automatic"
+msgstr "Автоматически"
+
+#: inc/class-wp_recaptcha_options.php:490
+msgid "Cancel"
+msgstr "Отмена"
+
+#: inc/class-wp_recaptcha_options.php:478
+msgid "Works! All good!"
+msgstr "Все работает!"
+
+#: inc/class-wp_recaptcha_options.php:469
+msgid "Invalid user response"
+msgstr "Неверный ответ пользователя"
+
+#: inc/class-wp_recaptcha_options.php:468
+msgid "The user response was missing"
+msgstr "Ответ пользователя отсутствует"
+
+#: inc/class-wp_recaptcha_options.php:467
+msgid "The secret Key is invalid. You better check your domain configuration and enter it again."
+msgstr "Неверный secret Key. Вам стоит проверить конфигурацию домена и ввести его снова."
+
+#: inc/class-wp_recaptcha_options.php:466
+msgid "The secret Key is missing."
+msgstr "Отсутствует secret Key."
+
+#: inc/class-wp_recaptcha_options.php:453
+msgid "Test verfication"
+msgstr "Проверка верификации"
+
+#: inc/class-wp_recaptcha_options.php:421
+msgid "Choose a flavor and theme for your Captcha. Please note that with the old style reCaptcha you cannot have more than one captcha per page."
+msgstr "Выберите вид и стиль вашей Captcha. Помните, что с reCaptcha  в старом стиле вы не сможете разместить больше одной формы проверки на странице."
+
+#: inc/class-wp_recaptcha_options.php:404
+msgid "Select which forms you want to protect with a captcha."
+msgstr "Выберите, какие формы вы хотите защитить с помощью reCaptcha."
+
+#: inc/class-wp_recaptcha_options.php:392
+msgid "Test API Key"
+msgstr "Проверка API Key"
+
+#: inc/class-wp_recaptcha_options.php:391
+msgid "New API Key"
+msgstr "Новый API Key"
+
+#: inc/class-wp_recaptcha_options.php:376
+msgid "You already entered an API Key. Use the button below to enter it again."
+msgstr "Вы уже ввели API Key. Используйте кнопку ниже, чтобы ввести его снова."
+
+#: inc/class-wp_recaptcha_options.php:368
+msgid "Please register your blog through the <a href=\"%s\">Google reCAPTCHA admin page</a> and enter the public and private key in the fields below. <a href=\"%s\">What is this all about?</a>"
+msgstr "Пожалуйста зарегистрируйте ваш блог на <a href=\"%s\">странице администрирования Google reCAPTCHA</a> и введите публичный и личный ключи в поля ниже. <a href=\"%s\">Что все это такое?</a>"
+
+#: inc/class-wp_recaptcha_options.php:355
+msgid "Please configure the public and private key. <a href=\"http://www.google.com/recaptcha/whyrecaptcha\">What are you trying to tell me?</a>"
+msgstr "Задайте публичный и личный ключи. <a href=\"http://www.google.com/recaptcha/whyrecaptcha\">Что все это такое?</a>"
+
+#: inc/class-wp_recaptcha_options.php:349
+msgid "When the captcha verification fails, and the private or public API key does not work the plugin will let you in anyway. Please note that with this option checked plus a broken keypair your site will be open to brute force attacks, that try to guess an administrator password."
+msgstr "Если верификация reCAPTCHA невозможна или ключи не подходят, плагин позволит вам войти в систему. Помните, что при включении этой функции и повреждении ключей ваш сайт будет уязвим для атак, путем перебора паролей для административного входа."
+
+#: inc/class-wp_recaptcha_options.php:348
+msgid "Allow administrator to log in if API keys do not work."
+msgstr "Разрешить вход администратору если API ключи не работают."
+
+#: inc/class-wp_recaptcha_options.php:344
+msgid "Prevent lockout"
+msgstr "Предотвращение блокировки"
+
+#: inc/class-wp_recaptcha_options.php:341
+msgid "Disable reCaptcha verification for logged in users."
+msgstr "Запретить проверку reCaptcha для идентифицированных пользователей."
+
+#: inc/class-wp_recaptcha_options.php:339
+msgid "Disable for known users"
+msgstr "Запретить для известных пользователей"
+
+#: inc/class-wp_recaptcha_options.php:334
+msgid "Forms to protect"
+msgstr "Формы для защиты"
+
+#: inc/class-wp_recaptcha_options.php:329
+msgid "bbPress New Reply"
+msgstr "bbPress Новый ответ"
+
+#: inc/class-wp_recaptcha_options.php:323
+msgid "bbPress New Topic"
+msgstr "bbPress Новая тема"
+
+#: inc/class-wp_recaptcha_options.php:315
+msgid "Awesome Support Registration"
+msgstr "Регистрация Awesome Support"
+
+#: inc/class-wp_recaptcha_options.php:306
+msgid "woocommerce Checkout"
+msgstr "Оплата woocommerce"
+
+#: inc/class-wp_recaptcha_options.php:298
+msgid "Lost Password Form"
+msgstr "Форма восстановления пароля"
+
+#: inc/class-wp_recaptcha_options.php:293
+msgid "Login Form"
+msgstr "Форма входа"
+
+#: inc/class-wp_recaptcha_options.php:288
+msgid "Signup Form"
+msgstr "Форма регистрации"
+
+#: inc/class-wp_recaptcha_options.php:283
+msgid "Comment Form"
+msgstr "Форма отправки комментария"
+
+#: inc/class-wp_recaptcha_options.php:252
+msgid "Enable this when your comment form uses the <code>comment_form_submit_button</code> filter. (Or just try if it works.)"
+msgstr "Разрешите это, если ваша форма комментария использует фильтр <code>comment_form_submit_button</code>. (Или просто попробуйте, как это работает.)"
+
+#: inc/class-wp_recaptcha_options.php:251
+msgid "My Comment Form is WordPress 4.2 compatible."
+msgstr "Форма отправки комментария совместима с WordPress 4.2"
+
+#: inc/class-wp_recaptcha_options.php:247
+msgid "Comment Form rendering"
+msgstr "Вывод формы комментария"
+
+#: inc/class-wp_recaptcha_options.php:239
+msgid "Leave this unchecked when your site requires JavaScript anyway."
+msgstr "Не включайте это, если ваш сайт требует JavaScript."
+
+#: inc/class-wp_recaptcha_options.php:238
+msgid "Provide a fallback for non javascript capable browsers."
+msgstr "Предоставляет обходной путь для браузеров без javascript."
+
+#: inc/class-wp_recaptcha_options.php:234
+msgid "Noscript Fallback"
+msgstr "Работа с Noscript"
+
+#: inc/class-wp_recaptcha_options.php:232
+msgid "Disable Form Submit Button until no-captcha is entered."
+msgstr "Запрещает кнопку формы Отправить пока не пройдена проверка."
+
+#: inc/class-wp_recaptcha_options.php:230
+msgid "Disable Submit Button"
+msgstr "Запрет кнопки Отправить"
+
+#: inc/class-wp_recaptcha_options.php:226
+msgid "Language Settings"
+msgstr "Настройка языка"
+
+#: inc/class-wp_recaptcha_options.php:221
+msgid "Old style reCAPTCHA where you type some cryptic text"
+msgstr "Старый стиль reCAPTCHA где вы можете вводить текст"
+
+#: inc/class-wp_recaptcha_options.php:217
+msgid "No Captcha where you just click a button"
+msgstr "No Captcha где вы можете просто нажать одну кнопку"
+
+#: inc/class-wp_recaptcha_options.php:210
+msgid "Flavor"
+msgstr "Вид"
+
+#: inc/class-wp_recaptcha_options.php:188
+msgid "Secret key"
+msgstr "Secret key"
+
+#: inc/class-wp_recaptcha_options.php:187
+msgid "Site key"
+msgstr "Site key"
+
+#: inc/class-wp_recaptcha_options.php:181
+msgid "Advanced"
+msgstr "Дополнительно"
+
+#: inc/class-wp_recaptcha_options.php:179
+msgid "Connect"
+msgstr "Соединение"
+
+#: inc/class-wp_recaptcha_options.php:177
+msgid "Style"
+msgstr "Стиль"
+
+#: inc/class-wp_recaptcha_options.php:176
+msgid "Protect"
+msgstr "Защита"
+
+#: inc/class-wp_recaptcha_options.php:158
+msgid "<strong>reCaptcha needs your attention:</strong> To make it work You need to enter an api key. <br />You can do so at the <a href=\"%s\">reCaptcha settings page</a>."
+msgstr "<strong>reCaptcha требуется ваше внимание:</strong> Чтобы начать работать вам нужно ввести API ключ. <br />Вы можете сделать это на <a href=\"%s\">странице настроек reCaptcha</a>."
+
+#: inc/class-wp_recaptcha_options.php:98
+msgid "reCaptcha"
+msgstr "reCaptcha"
+
+#: inc/class-wp_recaptcha_options.php:97 inc/class-wp_recaptcha_options.php:109
+msgid "reCaptcha Settings"
+msgstr "Настройки reCaptcha"
+
+#: inc/class-wp_recaptcha_nocaptcha.php:242
+msgid "Please enable JavaScript to submit this form."
+msgstr "Пожалуйста, разрешите JavaScript чтобы отправить эту форму."
+
+#: inc/class-wp_recaptcha_nocaptcha.php:92
+msgid "Dark"
+msgstr "Темная"
+
+#: inc/class-wp_recaptcha_nocaptcha.php:89
+msgid "Light"
+msgstr "Светлая"
+
+#: inc/class-wp_recaptcha_ninjaforms.php:89
+#: inc/class-wp_recaptcha_options.php:228
+msgid "Theme"
+msgstr "Тема"
+
+#: inc/class-wp_recaptcha_contactform7.php:207
+#: inc/class-wp_recaptcha_ninjaforms.php:81
+msgid "Use default"
+msgstr "По умолчанию"
+
+#: inc/class-wp_recaptcha_contactform7.php:188
+msgid "Copy this code and paste it into the form left."
+msgstr "Скопируйте этот код и вставьте его в форму слева."
+
+#: inc/class-wp_recaptcha_contactform7.php:176
+msgid "Name"
+msgstr "Имя"
+
+#: inc/class-wp_recaptcha_contactform7.php:174
+msgid "Required field?"
+msgstr "Обязательное поле?"
+
+#: inc/class-wp_recaptcha_contactform7.php:156
+msgid "Insert Tag"
+msgstr "Добавить тег"
+
+#: inc/class-wp_recaptcha_contactform7.php:120
+msgid "Required field"
+msgstr "Обязательное поле"
+
+#: inc/class-wp_recaptcha_contactform7.php:116
+#: inc/class-wp_recaptcha_contactform7.php:119
+msgid "Field type"
+msgstr "Тип поля"
+
+#: inc/class-wp_recaptcha_contactform7.php:97
+#: inc/class-wp_recaptcha_contactform7.php:110
+#: inc/class-wp_recaptcha_ninjaforms.php:53
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: inc/class-wp_recaptcha_contactform7.php:52
+#: inc/class-wp_recaptcha_contactform7.php:225
+#: inc/class-wp_recaptcha_ninjaforms.php:38
+#: inc/class-wp_recaptcha_ninjaforms.php:155
+msgid "The Captcha didn’t verify."
+msgstr "Проверка не пройдена."
+
+#: inc/class-wp_recaptcha_contactform7.php:51
+#: inc/class-wp_recaptcha_ninjaforms.php:47
+msgid "Google reCaptcha does not validate."
+msgstr "Google reCaptcha не проверена."
+
+#: inc/class-wp_recaptcha_bbpress.php:71
+#: inc/class-wp_recaptcha_woocommerce.php:91
+#: inc/class-wp_recaptcha_woocommerce.php:100 wp-recaptcha-integration.php:423
+#: wp-recaptcha-integration.php:469 wp-recaptcha-integration.php:483
+#: wp-recaptcha-integration.php:495
+msgid "<strong>Error:</strong> the Captcha didn’t verify."
+msgstr "<strong>Ошибка:</strong> неверная Captcha."
+
+#: inc/class-wp_recaptcha_awesome_support.php:82
+msgid "The Captcha didn&#039;t verify"
+msgstr "Проверка Captcha не пройдена."
